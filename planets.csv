@@ -1,0 +1,14 @@
+#properties of all of the planets
+#distance in AU, diameter in km
+planet,distance,diameter,albedo
+Mercury,0.387,4878,0.1
+Venus,0.723,12104,0.65
+Earth,1,12756,0.39
+Mars,1.524,6794,0.15
+Jupiter,5.203,142800,0.52
+Saturn,9.529,120000,0.76
+Uranus,19.19,51120,0.51
+Neptune,30.06,49528,0.35
+Pluto,39.53,2290,0.4
+PlanetX,???,???,???
+#compiled for PH398
